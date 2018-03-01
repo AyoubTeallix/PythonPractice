@@ -1,4 +1,2 @@
 var msg = "hello world!"
-alert(msg)
-
-
+alert(msg
