@@ -1,6 +1,4 @@
-alert("Hello Sir AyoubTx")
-
-
-
+var msg = "hello world!"
+alert(msg)
 
 
